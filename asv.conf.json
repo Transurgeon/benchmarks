@@ -40,8 +40,7 @@
         "scs": [],
         "numpy": [],
         "scipy": [],
-        "pybind11": [],
-        "python-graphblas": []
+        "pybind11": []
     },
 
     // The directory (relative to the current directory) that benchmarks are

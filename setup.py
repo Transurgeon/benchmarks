@@ -21,7 +21,6 @@ setuptools.setup(
         "cvxpy",
         "asv<0.6",
         "virtualenv",
-        "python-graphblas",
         "clarabel",
         "scs",
         "osqp",
