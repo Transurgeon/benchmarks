@@ -11,9 +11,10 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 
-import cvxpy as cp
 import numpy as np
 from cvxpy.reductions.dcp2cone.cone_matrix_stuffing import ConeMatrixStuffing
+
+import cvxpy as cp
 
 
 class ConeMatrixStuffingBench:
