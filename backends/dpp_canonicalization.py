@@ -42,9 +42,8 @@ import time
 from dataclasses import dataclass, field
 from typing import Callable
 
-import numpy as np
-
 import cvxpy as cp
+import numpy as np
 
 # Optional imports
 try:
